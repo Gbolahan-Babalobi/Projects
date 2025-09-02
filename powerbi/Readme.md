@@ -17,7 +17,7 @@
 - **Views:** 4 dashboards.  
 - **Files:**  
   - [`maji_ndogo_part2.pbix`](maji_ndogo_part2.pbix)  
-  - [Screenshots](../assets/)  
+  - [Screenshots](gbolahanbabalobi/assets/)  
 - **Folder:** [`maji-ndogo-part2/`](maji-ndogo-part2)
 
 ---
