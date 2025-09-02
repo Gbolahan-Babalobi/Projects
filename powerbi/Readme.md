@@ -5,7 +5,7 @@
 - **Skills:** Power Query, DAX basics, data cleaning, descriptive visuals.  
 - **Views:** 3 dashboards (access types, gender roles, town-level challenges).  
 - **Files:**  
-  - [`maji_ndogo_part1.pbix`](maji-ndogo-part1/maji_ndogo_part1.pbix)  
+  - [`maji_ndogo_part1.pbix`](maji_ndogo_part1.pbix)  
   - [Screenshots](../assets/) (see portfolio site)  
 - **Folder:** [`maji-ndogo-part1/`](maji-ndogo-part1)
 
@@ -16,7 +16,7 @@
 - **Skills:** Drilldowns, slicers, comparative analysis, stakeholder-focused reporting.  
 - **Views:** 4 dashboards.  
 - **Files:**  
-  - [`maji_ndogo_part2.pbix`](maji-ndogo-part2/maji_ndogo_part2.pbix)  
+  - [`maji_ndogo_part2.pbix`](maji_ndogo_part2.pbix)  
   - [Screenshots](../assets/)  
 - **Folder:** [`maji-ndogo-part2/`](maji-ndogo-part2)
 
@@ -27,7 +27,7 @@
 - **Skills:** Advanced DAX, KPI cards, budget monitoring, transparency dashboards.  
 - **Views:** 6 dashboards.  
 - **Files:**  
-  - [`maji_ndogo_part3.pbix`](maji-ndogo-part3/maji_ndogo_part3.pbix)  
+  - [`maji_ndogo_part3.pbix`](maji_ndogo_part3.pbix)  
   - [Screenshots](../assets/)  
 - **Folder:** [`maji-ndogo-part3/`](maji-ndogo-part3)
 
@@ -38,7 +38,7 @@
 - **Skills:** Bookmarks, drill-through reports, impact analysis, data storytelling.  
 - **Views:** 7 dashboards.  
 - **Files:**  
-  - [`maji_ndogo_part4.pbix`](maji-ndogo-part4/maji_ndogo_part4.pbix)  
+  - [`maji_ndogo_part4.pbix`](maji_ndogo_part4.pbix)  
   - [Screenshots](../assets/)  
 - **Folder:** [`maji-ndogo-part4/`](maji-ndogo-part4)
 
