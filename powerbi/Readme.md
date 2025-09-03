@@ -55,4 +55,4 @@ This folder will grow with additional **Power BI projects**, such as:
 ---
 
 👨‍💻 **Author:** [Gbolahan Babalobi](https://github.com/gbolahanbabalobi)  
-🌐 [Portfolio Website](https://gbolahanbabalobi.github.io)
+🌐 [Portfolio Website](https://gbolahan-babalobi.github.io)
